@@ -1,4 +1,4 @@
-Client-Side
+ClientSide
 ===========
 
 A CRM built with Node.js and Express.
